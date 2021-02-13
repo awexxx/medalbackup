@@ -1,4 +1,5 @@
 # Before diving in..
+This script is specifically meant for the [Medal.tv](https://medal.tv) service. In short, they're a gaming moment clipping service.<br/>
 You'll need to know what the Windows File Explorer address bar is. It's that little bar at the top of your screen that shows where you're at. You can click on that and type in it, keep this in mind!
 
 # This is not finished!
