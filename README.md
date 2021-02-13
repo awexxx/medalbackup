@@ -9,7 +9,7 @@ This script is designed to copy your "clips.json" file to the folder this script
 
 # How do I run this script?
 I'm working on improving this, but for now, this is how to do it:
-Copy the source code from whatever bat you want to use (ex. the Google Drive one or the local one), create a text doc, and paste it in there.
+Copy the source code from whatever bat you want to use (ex. the Google Drive one or the local one), create a text doc, and paste it in there.<br/>
 ![Creating the bat file](http://plaguecraft.xyz/assets/img/medal/clip-backup.png)
 
 You'll need to have your user profile name. Easiest way to type "C:\Users\%userprofile%" (without quotations) in Windows File Explorer's address bar. Whatever shows after C:\Users is your user profile.
