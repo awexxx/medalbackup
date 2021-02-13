@@ -1,4 +1,4 @@
-# Before explaining..
+# Before diving in..
 You'll need to know what the Windows File Explorer address bar is. It's that little bar at the top of your screen that shows where you're at. You can click on that and type in it, keep this in mind!
 
 # This is not finished!
