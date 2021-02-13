@@ -21,6 +21,6 @@ Click Save As, and save it as a .bat file.
 Then, open cmd, cd to the folder containing the .bat file you just created (right click the address bar in file explorer and copy the address, then type "cd " (without quotations) and then paste the address in), type the .bat name, and you're done!
 
 # To do list!
-Finish the Google Drive script
-Make everything automated; eliminate the editing of the file
-Possibly make this with another language (.bat is not my best lmao)
+Finish the Google Drive script<br/>
+Make everything automated; eliminate the editing of the file<br/>
+Possibly make this with another language (.bat is not my best lmao)<br/>
